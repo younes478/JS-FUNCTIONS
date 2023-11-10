@@ -1,0 +1,19 @@
+{
+  "name": "js-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AddFunction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/younes478/JS-FUNCTIONS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/younes478/JS-FUNCTIONS/issues"
+  },
+  "homepage": "https://github.com/younes478/JS-FUNCTIONS#readme"
+}
